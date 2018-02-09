@@ -1,3 +1,4 @@
+[![CircleCI](https://circleci.com/gh/tieto-cem/terraform-aws-self-signed-cert.svg?style=shield&circle-token=5975cd45fc293dd432421bb94a6df8793c3eec4c)](https://circleci.com/gh/tieto-cem/terraform-aws-self-signed-cert)
 
 Terraform AWS Self-Signed IAM Server Certificate 
 ================================================
